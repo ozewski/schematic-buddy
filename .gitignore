@@ -1,0 +1,8 @@
+# IDE files
+.idea/
+
+# schematic files
+*.litematic
+
+# testing files
+_test/
